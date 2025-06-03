@@ -1,0 +1,1 @@
+select sum(Salary) as TotalSalaries from employees

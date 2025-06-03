@@ -1,0 +1,1 @@
+select min(UnitPrice) as CheapestPrice From Products;

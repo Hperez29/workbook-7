@@ -1,0 +1,1 @@
+select count(*) AS SupplierCount from supplierssupplierssuppliers
