@@ -1,0 +1,2 @@
+INSERT INTO Suppliers (CompanyName, ContactName, ContactTitle, Address, City, Region, PostalCode, Country, Phone)
+VALUES ('Gotham Foods Inc.', 'Bruce Wayne', 'Purchasing Manager', '1007 Mountain Drive', 'Gotham', NULL, '10001', 'USA', '555-0199');
